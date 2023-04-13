@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oriflame Brandie</string>
+    <string name="facebook_app_id">7255618426342027</string>
+    <string name="fb_login_protocol_scheme">fb7255618426342027</string>
+    <string name="facebook_client_token">406f520e8074e6134067003b81cd7bc4</string>
+</resources>
